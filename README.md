@@ -1,3 +1,9 @@
-# Menjadi Google Cloud Engineer
+Profile
 
-Notes API (backend) untuk materi Cloud Run di kelas Menjadi Google Cloud Engineer
+Nama : Nur Rapi Ria Amalia
+
+Universitas : Universitas Gunadarma
+
+Learning Path : Cloud Computing
+
+Bangkit2023
